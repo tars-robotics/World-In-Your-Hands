@@ -25,7 +25,7 @@ Welcome to the official repository of World in Your Hands.
 - [x] **World In Your Hands Paper**
 - [ ] **World In Your Hands Full Data**
   - [ ] ~1,000 hours demonstrations of high-quality human-centric data 
-- [ ] **World In Your Hands Foundation Model: GO-1**
+- [ ] **World In Your Hands Foundation Model**
 - [ ] **Human-centric Challenge**
 
 
