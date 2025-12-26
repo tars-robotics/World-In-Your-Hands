@@ -3,8 +3,8 @@ export HF_DATASETS_DISABLE_PROGRESS_BARS=TRUE
 export HDF5_USE_FILE_LOCKING=FALSE
 
 python wiyh_h5.py \
-    --src-paths /path/to/libero/ \
-    --output-path /path/to/local \
+    --src-paths /mnt/data/data/zyp/wiyh/wiyh-sdk/data/tmp \
+    --output-path wiyh_lerobot \
     --executor local \
     --tasks-per-job 3 \
     --workers 10
