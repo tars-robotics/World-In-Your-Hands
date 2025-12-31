@@ -39,6 +39,8 @@ Please follow these steps to make yourself familiar with the wiyh dataset:
 ## 📄 License and Citation   <a name="liscenseandcitation"></a>
 All the data and code within this repo are under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
 
+- For specific contributions, please refer to [contributions](docs/contributon.md).
+
 - Please consider citing our work if it helps your research.
 
 ```
