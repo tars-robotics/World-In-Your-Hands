@@ -1,5 +1,5 @@
 # <img src="assets/tars.png" height="46px" style="vertical-align: middle" /> World in Your Hands
-**Welcome to the official repository of World in Your Hands.**
+**Welcome to the official repository of World In Your Hands.**
 <div align="left">
     <a href="https://arxiv.org/abs/2512.24310" target="_blank">
     <img src="https://img.shields.io/badge/Paper-arXiv-red" alt="Paper arXiv"></a>
@@ -25,7 +25,8 @@
 > [!IMPORTANT]
 > 🌟 Stay up to date at [TARS-AI](https://wiyh.tars-ai.com/)!
 
-- **`[2025/12/26]`** 🚀<span style="color: #B91C1C; font-weight: bold;">World In Your Hands Sample Dataset released.</span>
+- **`[2025/12/26]`** 🚀<span style="color: #B91C1C; font-weight: bold;">World In Your Hands Sample Dataset Released.</span>
+- **`[2025/12/31]`** 🚀<span style="color: #e5c35eff; font-weight: bold;">World In Your Hands Technical Report Released.</span>
 
 ## 📅 TODO List  <a name="todolist"></a>
 
@@ -53,7 +54,12 @@ All the data and code within this repo are under [CC BY-NC-SA 4.0](https://creat
 - Please consider citing our work if it helps your research.
 
 ```
-Please stay tuned for our technical report.
+@article{robotics2025world,
+  title={World In Your Hands: A Large-Scale and Open-source Ecosystem for Learning Human-centric Manipulation in the Wild},
+  author={Robotics, TARS and Zheng, Yuhang and Peng, Jichao and Li, Weize and Zheng, Yupeng and Li, Xiang and Jin, Yujie and Wei, Julong and Zhang, Guanhua and Zheng, Ruiling and others},
+  journal={arXiv preprint arXiv:2512.24310},
+  year={2025}
+}
 ```
 
 
