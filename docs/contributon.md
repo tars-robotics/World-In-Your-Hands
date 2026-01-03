@@ -4,7 +4,7 @@
 
 </div>
 
-`World In Your Hands` is a joint effort from TARS-AI research teams. 
+`World In Your Hands` <font color=#8A2BE2>is a joint effort from TARS-AI research teams.</font> 
 
 - Here we list all contributors towards constructing this platform from 2025 and onwards.
 ```
@@ -34,7 +34,7 @@ Pengfei Li, Hengjie Si, Feiyu Zhu, Wang Fu, Likun Wang, Ruiwen Yao, Jieru Z
 
 ### Manuscript Preparation
 > Manuscript outline, writing and revising
-- [Weize Li](https://scholar.google.com/citations?user=CyPiUucAAAAJ&hl=en&oi=ao),[Pengfei Li](https://scholar.google.com/citations?hl=en&user=hmii_L8AAAAJ), [Jieru Zhao](https://scholar.google.com/citations?hl=en&user=c0rOJFwAAAAJ)
+- *[Pengfei Li](https://scholar.google.com/citations?hl=en&user=hmii_L8AAAAJ), [Jieru Zhao](https://scholar.google.com/citations?hl=en&user=c0rOJFwAAAAJ)*
 
 ### Data Curation
 > Data collection, quality check

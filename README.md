@@ -1,6 +1,15 @@
 # <img src="assets/tars.png" height="46px" style="vertical-align: middle" /> World in Your Hands
 Welcome to the official repository of World in Your Hands.
-
+<div align="left">
+    <a href="https://arxiv.org/abs/2512.24310" target="_blank">
+    <img src="https://img.shields.io/badge/Paper-arXiv-red" alt="Paper arXiv"></a>
+    <a href="https://wiyh.tars-ai.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Homepage-WIYH-blue" alt="Project Page"></a>
+    <a href="https://wiyh.tars-ai.com/exploredataset#overview" target="_blank">
+    <img src="https://img.shields.io/badge/Dataset-WIYH-darkorange" alt="Data"></a>
+    <a href="docs/contributon.md" target="_blank">
+    <img src="https://img.shields.io/badge/Contributors-WIYH-8A2BE2" alt="Data"></a>
+</div>
 
 ![](assets/wiyh.png)
 ## Overview
@@ -21,7 +30,7 @@ Welcome to the official repository of World in Your Hands.
 ## 📅 TODO List  <a name="todolist"></a>
 
 - [x] **World In Your Hands Sample Data**
-- [ ] **World In Your Hands Paper**
+- [x] **World In Your Hands Paper**
 - [ ] **World In Your Hands Full Data**
   - [ ] ~1,000 hours demonstrations of high-quality human-centric data 
 - [ ] **World In Your Hands Foundation Model**
