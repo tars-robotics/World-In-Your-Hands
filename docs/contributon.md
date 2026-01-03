@@ -38,7 +38,7 @@ Pengfei Li, Hengjie Si, Feiyu Zhu, Wang Fu, Likun Wang, Ruiwen Yao, Jieru Z
 
 ### Data Curation
 > Data collection, quality check
-- *Jichao Peng, Yujie Jin, Likun Wang, Ruiwen Yao*
+- *Yujie Jin, Likun Wang, Ruiwen Yao*
 
 ### Product
 > Product design
