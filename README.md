@@ -55,9 +55,9 @@ All the data and code within this repo are under [CC BY-NC-SA 4.0](https://creat
 - Please consider citing our work if it helps your research.
 
 ```
-@article{robotics2025world,
-  title={World In Your Hands: A Large-Scale and Open-source Ecosystem for Learning Human-centric Manipulation in the Wild},
-  author={Robotics, TARS and Zheng, Yuhang and Peng, Jichao and Li, Weize and Zheng, Yupeng and Li, Xiang and Jin, Yujie and Wei, Julong and Zhang, Guanhua and Zheng, Ruiling and others},
+@article{zheng2025world,
+  title={World In Your Hands: A Large-Scale and Open-Source Ecosystem for Learning Human-Centric Manipulation in the Wild},
+  author={Zheng, Yupeng and Peng, Jichao and Li, Weize and Zheng, Yuhang and Li, Xiang and Jin, Yujie and Wei, Julong and Zhang, Guanhua and Zheng, Ruiling and Cao, Ming and others},
   journal={arXiv preprint arXiv:2512.24310},
   year={2025}
 }
