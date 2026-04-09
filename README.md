@@ -5,8 +5,8 @@
     <img src="https://img.shields.io/badge/Paper-arXiv-red" alt="Paper arXiv"></a>
     <a href="https://wiyh.tars-ai.com/" target="_blank">
     <img src="https://img.shields.io/badge/Homepage-WIYH-blue" alt="Project Page"></a>
-    <a href="https://wiyh.tars-ai.com/exploredataset#overview" target="_blank">
-    <img src="https://img.shields.io/badge/Dataset-WIYH-darkorange" alt="Data"></a>
+    <a href="https://huggingface.co/datasets/tars-robotics/WIYH" target="_blank">
+    <img src="https://img.shields.io/badge/Dataset-Hugging Face-darkorange" alt="Data"></a>
     <a href="docs/contributon.md" target="_blank">
     <img src="https://img.shields.io/badge/Contributors-WIYH-8A2BE2" alt="Data"></a>
 </div>
@@ -27,13 +27,14 @@
 
 - **`[2025/12/26]`** 🚀<span style="color: #B91C1C; font-weight: bold;">World In Your Hands Sample Dataset Released.</span>
 - **`[2025/12/31]`** 🚀<span style="color: #e5c35eff; font-weight: bold;">World In Your Hands Technical Report Released.</span>
+- **`[2025/04/10]`** 🚀<span style="color: #e5c35eff; font-weight: bold;">World In Your Hands Full Data.</span>
 
 ## 📅 TODO List  <a name="todolist"></a>
 
 - [x] **World In Your Hands Sample Data**
 - [x] **World In Your Hands Paper**
-- [ ] **World In Your Hands Full Data**
-  - [ ] ~1,000 hours demonstrations of high-quality human-centric data 
+- [x] **World In Your Hands Full Data**
+  - ~1,000 hours demonstrations of high-quality human-centric data 
 - [ ] **World In Your Hands Foundation Model**
 - [ ] **Human-centric Challenge**
 
