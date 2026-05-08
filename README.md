@@ -30,7 +30,7 @@
 - [x] **World In Your Hands Sample Data**
 - [x] **World In Your Hands Paper**
 - [x] **World In Your Hands Full Data**
-  - ~1,000 hours of demonstrations of high-quality human-centric data 
+  - ~1,000 hours of demonstrations of high-quality human-centric data (~30TB) 
 - [ ] **World In Your Hands Foundation Model**
 - [ ] **Human-centric Challenge**
 
