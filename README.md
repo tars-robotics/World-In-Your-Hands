@@ -1,14 +1,10 @@
 # <img src="assets/tars.png" height="46px" style="vertical-align: middle" /> World in Your Hands
 **Welcome to the official repository of World In Your Hands.**
 <div align="left">
-    <a href="https://arxiv.org/abs/2512.24310" target="_blank">
-    <img src="https://img.shields.io/badge/Paper-arXiv-red" alt="Paper arXiv"></a>
     <a href="https://wiyh.tars-ai.com/" target="_blank">
     <img src="https://img.shields.io/badge/Homepage-WIYH-blue" alt="Project Page"></a>
     <a href="https://huggingface.co/datasets/tars-robotics/WIYH" target="_blank">
     <img src="https://img.shields.io/badge/Dataset-Hugging Face-darkorange" alt="Data"></a>
-    <a href="docs/contributon.md" target="_blank">
-    <img src="https://img.shields.io/badge/Contributors-WIYH-8A2BE2" alt="Data"></a>
 </div>
 
 ![](assets/wiyh.png)
@@ -34,7 +30,7 @@
 - [x] **World In Your Hands Sample Data**
 - [x] **World In Your Hands Paper**
 - [x] **World In Your Hands Full Data**
-  - ~1,000 hours demonstrations of high-quality human-centric data 
+  - ~1,000 hours of demonstrations of high-quality human-centric data 
 - [ ] **World In Your Hands Foundation Model**
 - [ ] **Human-centric Challenge**
 
@@ -50,18 +46,7 @@ Please follow these steps to make yourself familiar with the wiyh dataset:
 ## 📄 License and Citation   <a name="liscenseandcitation"></a>
 All the data and code within this repo are under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
 
-- For specific contributions, please refer to [contributions](docs/contributon.md).
-
 - Please consider citing our work if it helps your research.
-
-```
-@article{zheng2025world,
-  title={World In Your Hands: A Large-Scale and Open-Source Ecosystem for Learning Human-Centric Manipulation in the Wild},
-  author={Zheng, Yupeng and Peng, Jichao and Li, Weize and Zheng, Yuhang and Li, Xiang and Jin, Yujie and Wei, Julong and Zhang, Guanhua and Zheng, Ruiling and Cao, Ming and others},
-  journal={arXiv preprint arXiv:2512.24310},
-  year={2025}
-}
-```
 
 
 ![](assets/vis.png)
