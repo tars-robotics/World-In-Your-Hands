@@ -1,8 +1,6 @@
 # <img src="assets/tars.png" height="46px" style="vertical-align: middle" /> World in Your Hands
 **Welcome to the official repository of World In Your Hands.**
 <div align="left">
-    <a href="https://wiyh.tars-ai.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Homepage-WIYH-blue" alt="Project Page"></a>
     <a href="https://huggingface.co/datasets/tars-robotics/WIYH" target="_blank">
     <img src="https://img.shields.io/badge/Dataset-Hugging Face-darkorange" alt="Data"></a>
 </div>
